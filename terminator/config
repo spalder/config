@@ -1,0 +1,19 @@
+[global_config]
+[keybindings]
+[profiles]
+  [[default]]
+    background_color = "#3d3846"
+    background_darkness = 1.0
+    background_type = image
+    cursor_color = "#aaaaaa"
+    foreground_color = "#f6f5f4"
+    background_image = /home/ascend/.minecraft/assets/skins/04/04a1a0885ef7b57a0e158182762c1f58d36e4ae3
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
